@@ -12,6 +12,6 @@ From there, there easiest way to install is via pip:
 
 <code>$ pip install color_transfer</code>
 
-#Examples
-Below are some examples showing how to run the <code>example.py</code> demo and the associated color transfers between images.
+to run the example.py file, do
+python example.py --source images/autumn.jpg --target images/Rashi.jpg 
 
