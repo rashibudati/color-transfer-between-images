@@ -15,5 +15,5 @@ From there, there easiest way to install is via pip:
 #Examples
 Below are some examples showing how to run the <code>example.py</code> demo and the associated color transfers between images.
 
-<code>$ python example.py --source images/autumn.jpg --target images/fallingwater.jpg</code>
+<code>$ python example.py --source images/autumn.jpg --target images/Rashi.jpg</code>
 ![Autumn and Rashi screenshot](docs/images/output1.png?raw=true)
